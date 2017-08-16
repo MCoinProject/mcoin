@@ -5,7 +5,7 @@ Litecoin Core integration/staging tree
 
 https://litecoin.org
 
-What is Litecoin?
+What is Mcoin?
 ----------------
 
 Litecoin is an experimental digital currency that enables instant payments to
@@ -15,12 +15,12 @@ out collectively by the network. Litecoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Litecoin Core software, see [https://litecoin.org](https://litecoin.org).
+the Litecoin Core software, see [https://mcoin.org](https://mcoin.org).
 
 License
 -------
 
-Litecoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+Mcoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
 
 Development Process
